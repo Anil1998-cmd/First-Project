@@ -1,3 +1,2 @@
 # First-Project
-<br>
-Author: Anil Gadade
+Author: Anil
